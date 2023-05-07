@@ -1,3 +1,1 @@
-dzien dobry
-
-poprawka numer 2
+poprawka
